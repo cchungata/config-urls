@@ -1,5 +1,16 @@
 {
-  "script_reserva": "https://script.google.com/macros/s/AKfycbx0K1ZF2U60LtFILvNxu9B3qrYzwnRmY13WHP_73mICRs7f3npyVY3Xxcr-n7SRELwMwA/exec",
-  "script_asistencia": "https://script.google.com/macros/s/AKfycbx45YvcvNJ68EPag6dxUN3e4pWYSqCiPl2eQ6tJ2aSKc3xtb2HwgAb7fZt2mijsb4y1jQ/exec"
+  "script_reserva": {
+    "url": "https://script.google.com/macros/s/AKfycbx0K1ZF2U60LtFILvNxu9B3qrYzwnRmY13WHP_73mICRs7f3npyVY3Xxcr-n7SRELwMwA/exec",
+    "usaCodigo": false
+  },
+  "script_asistencia": {
+    "url": "https://script.google.com/macros/s/AKfycbx45YvcvNJ68EPag6dxUN3e4pWYSqCiPl2eQ6tJ2aSKc3xtb2HwgAb7fZt2mijsb4y1jQ/exec",
+    "usaCodigo": false
+  },
+  "script_mascota": {
+    "url": "https://script.google.com/macros/s/ID_DEFAULT/exec",
+    "usaCodigo": true
+  }
 }
+
 
