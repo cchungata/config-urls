@@ -10,13 +10,11 @@
   "script_mascota": {
     "url": "https://script.google.com/macros/s/ID_DEFAULT/exec",
     "usaCodigo": true
+  },
+  "script_balconRE": {
+    "url": "https://script.google.com/macros/s/AKfycbzzhDRaYMNgL2QAmNt4pn1q-CIHReqNp68U-EB1R7Dvynblw4YZyDuS9Bk_StGYNUiN/exec",
+    "usaCodigo": false
   }
-},
-"script_balconRE":{
-  "url":"https://script.google.com/macros/s/AKfycbzzhDRaYMNgL2QAmNt4pn1q-CIHReqNp68U-EB1R7Dvynblw4YZyDuS9Bk_StGYNUiN/exec",
-  "usaCodigo": false
-}
-
 }
 
 
